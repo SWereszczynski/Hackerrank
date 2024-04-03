@@ -24,8 +24,6 @@
  
 */
 
-import Foundation
-
 func plusMinus(arr: [Int]) -> Void {
     var positiveCount: Float = 0
     var negativeCount: Float = 0

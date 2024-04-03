@@ -22,8 +22,6 @@
  
  */
 
-import Foundation
-
 func miniMaxSum(arr: [Int]) -> Void {
     guard !arr.isEmpty else { return }
     
